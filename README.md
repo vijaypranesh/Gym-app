@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Gym Tracker App
 
-A full-stack, 3-tier Gym Tracker web application for logging and tracking workouts.
+A full-stack, 3-tier Gym Tracker web application for logging and tracking workouts. This can be used for Devops Projects Demo.
 
 ---
 
